@@ -76,3 +76,6 @@ Password: 111
 User - Admin:
 Email: admin@gmail.com
 Password: 111
+
+Hosted Link: https://inzira.net/
+
